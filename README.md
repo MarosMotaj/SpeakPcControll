@@ -12,10 +12,10 @@ Voice commands:
 "calculator": opens Calculator
 
 Linux terminal commands to install libraries:
-sudo apt-get update -y
-pip install SpeechRecognition
-sudo apt-get install python-pyaudio python3-pyaudio
-pip install gTTS
+sudo apt-get update -y,
+pip install SpeechRecognition,
+sudo apt-get install python-pyaudio python3-pyaudio,
+pip install gTTS,
 
 Run program:
 1. Go to program destination folder.
